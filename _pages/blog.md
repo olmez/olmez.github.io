@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Blog"
 excerpt: "Here, I post some of my hobbies."
 permalink: /blog/
@@ -12,3 +13,4 @@ feature_row:
 #    excerpt: Every day input from NYC
 
 {% include feature_row type="left" %}
+---
